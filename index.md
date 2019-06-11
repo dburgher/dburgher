@@ -1,7 +1,7 @@
 ---
 title: "How Zombies Inform our Understanding of Racism"
 excerpt: 'Since the appropriation of the Haitian zonbi into American popular culture, zombie narratives have reflected worries and tensions in American society.'
-teaser: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Zombies_NighZombies_NightoftheLivingDead.jpg"
+teaser: "https://1.bp.blogspot.com/-USSn6yomeP8/V1HtCSw5AFI/AAAAAAAFr3k/NtbC9NGT-KAPk7cNnSO67WfSdPSF72DFwCLcB/s1600/Francois%2BCauvin%2BTutt%2527Art%2540%2B%252813%2529.jpg"
 overlay_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Zombies_NightoftheLivingDead.jpg/640px-Zombies_NightoftheLivingDead.jpg"
 contributors:
   - name: Denise Burgher
