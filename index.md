@@ -6,7 +6,7 @@ overlay_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Zombie
 contributors:
   - name: George Romero
   - name: Denise Burgher
-    image: https://pbs.twimg.com/profile_images/457000434532483072/LpJVylwE_400x400.jpeg
+    image: https://images-na.ssl-images-amazon.com/images/I/713SZ-MoYGL._SL1107_.jpg
     bio: Born in the New York City borough of the Bronx. He is the son of Ann (Dvorsky) and George Romero, a commercial artist. His mother was Lithuanian and his father moved from Spain to Cuba as a child.
     twitter: GeorgeARomeros
 ---
