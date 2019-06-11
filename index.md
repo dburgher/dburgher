@@ -2,7 +2,7 @@
 title: "Exploring the Digital Humanities"
 excerpt: 'What is DH? Do the digital platforms we use matter? If so how? What can we do differently if we use the principles of Black DH as a point of inquiry?.'
 teaser: " https://images.app.goo.gl/V6JyYfVmvtkHdCnH6"
-overlay_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Zombies_NightoftheLivingDead.jpg/640px-Zombies_NightoftheLivingDead.jpg"
+overlay_image: "  "
 contributors:
   - name: Denise Burgher
     image: https://images-na.ssl-images-amazon.com/images/I/713SZ-MoYGL._SL1107_.jpg
